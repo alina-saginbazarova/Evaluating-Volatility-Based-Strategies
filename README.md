@@ -1,1 +1,0 @@
-# Evaluating-Volatility-Based-Strategies
