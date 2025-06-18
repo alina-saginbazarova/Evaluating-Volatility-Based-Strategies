@@ -1,0 +1,7 @@
+**Investment Strategy Proposal: Evaluating Volatility-Based Strategies in a SPY-Dominated Market**
+
+Executive Summary
+
+This paper investigates a series of volatility-regime-based trading strategies that use the VIX futures term structure as a market timing signal. Specifically, it evaluates the performance of these strategies relative to a baseline systematic SPY dip-buying strategy. While the baseline strategy remains the top performer in terms of risk-adjusted returns, we investigate whether hybrid approaches can offer a more resilient and diversified alternative.
+My findings indicate that pure volatility strategies underperform, largely due to structural inefficiencies, high volatility and exposure to extreme drawdowns. In contrast, a hybrid model such as the Long SPY Long VIX (LSLV) strategy, which dynamically adjusts SPY and volatility exposure based on prevailing regimes, demonstrates a more balanced, volatility-aware approach. This strategy helps investors manage risk more effectively while offering diversification beyond traditional equity beta.
+This work builds on the framework developed by Fransson and Almqvist (2020), who illustrated how signals from the VIX term structure can inform volatility trading decisions. By replicating their core logic with updated historical data, we critically re-evaluate the robustness of their strategy under current market conditions and compare it to the baseline approach.
